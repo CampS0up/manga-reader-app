@@ -1,0 +1,19 @@
+{
+  "name": "manga-reader-app",
+  "version": "1.0.0",
+  "description": "Web manga reader using MangaDex and Kitsu APIs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.2.0"
+  }
+}
