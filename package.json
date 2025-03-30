@@ -1,7 +1,7 @@
 {
   "name": "manga-reader-app",
   "version": "1.0.0",
-  "description": "Web manga reader using MangaDex and Kitsu APIs",
+  "description": "Web manga reader built with Vite + React",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,11 +13,11 @@
     "react-router-dom": "^6.20.1"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.3.4",
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.3",
-    "tailwindcss": "^4.0.17",
-    "vite": "^5.4.15",
-    "vite-plugin-pwa": "^1.0.0"
+    "vite": "^5.2.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite-plugin-pwa": "^0.16.4",
+    "tailwindcss": "^3.3.3",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.17"
   }
 }
